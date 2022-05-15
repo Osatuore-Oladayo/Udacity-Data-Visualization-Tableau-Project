@@ -1,6 +1,6 @@
 # Udacity Data Visualization with Tableau Project
 
->This project makes use of a kaggle dataset and contains 2015 census data for all counties in the United States of America.
+>This project makes use of 2015 census data for all counties in the United States of America and made available by Udacity.
 ## Questions for analysis
 >1. Which state has the best transportation?
 >2. How does income and poverty look across America?
